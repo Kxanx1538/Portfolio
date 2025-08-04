@@ -2,7 +2,7 @@
 
 I’m a cybersecurity engineer specializing in **Cloud Security Architecture**, **Security Automation / DevSecOps (IaC)**, **IAM / Zero Trust**, **SIEM & Analytics**, and **GRC & Compliance Engineering**. My focus is on building secure, automated, auditable environments across hybrid and multi-cloud systems using tools like **Terraform**, **Microsoft Sentinel**, **AWS Security Hub**, **Entra ID**, and more.
 
-# About Me
+## About Me
 With a background in full-stack IT and experience as the sole IT and security owner for a remote-first company, I’ve architected, deployed, and operationalized cloud-native security programs from the ground up. This portfolio provides a holistic view of my work, impact, and the secure-by-design systems I continue to build.
 
 --- 
@@ -41,7 +41,7 @@ I operate at the convergence of **security engineering, automation, identity, an
 ### 🧱 Hybrid Multi-Cloud Zero Trust Architecture with Lean SOC  
 End-to-end design and deployment of a federated identity-first, Zero Trust model across Azure, AWS, on-prem, and SaaS.  
 Integrated SIEM, IAM, Secure VPN, automation, and cloud governance tools—tailored for a lean, modern security team.  
-📎[View Architecture Case Study](https://github.com/Kxanx1538 hybrid-zero-trust-architecture/tree/main)
+- 📎[View Architecture Case Study](https://github.com/Kxanx1538/hybrid-zero-trust-architectu)
 
 ---
 
