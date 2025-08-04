@@ -2,9 +2,10 @@
 
 I’m a cybersecurity engineer specializing in **Cloud Security Architecture**, **Security Automation / DevSecOps (IaC)**, **IAM / Zero Trust**, **SIEM & Analytics**, and **GRC & Compliance Engineering**. My focus is on building secure, automated, auditable environments across hybrid and multi-cloud systems using tools like **Terraform**, **Microsoft Sentinel**, **AWS Security Hub**, **Entra ID**, and more.
 
+# About Me
 With a background in full-stack IT and experience as the sole IT and security owner for a remote-first company, I’ve architected, deployed, and operationalized cloud-native security programs from the ground up. This portfolio provides a holistic view of my work, impact, and the secure-by-design systems I continue to build.
 
----
+--- 
 
 ## ⚙️ What I Do
 
@@ -25,7 +26,7 @@ With a background in full-stack IT and experience as the sole IT and security ow
 
 ---
 
-## 📊 My Cybersecurity Focus Areas   
+## 📊 My Cybersecurity Focus Areas
 
 ![Cybersecurity Specialization Venn Diagram](./assets/venn_diagram.png)
 
@@ -34,28 +35,52 @@ I operate at the convergence of **security engineering, automation, identity, an
 
 ---
 
-## 📁 Featured Projects & Case Studies
+---
+## 🚧 Projects & Case Studies
 
-- 🧠 **Microsoft Sentinel: Custom SIEM Use Cases + KQL**  
-  [View project](#) – Built custom analytics rules, hunting queries, and incident response workflows for multi-tenant environments.
+### 🧱 Hybrid Multi-Cloud Zero Trust Architecture with Lean SOC  
+End-to-end design and deployment of a federated identity-first, Zero Trust model across Azure, AWS, on-prem, and SaaS.  
+Integrated SIEM, IAM, Secure VPN, automation, and cloud governance tools—tailored for a lean, modern security team.  
+📎[View Architecture Case Study] (https://github.com/Kxanx1538 hybrid-zero-trust-architecture/tree/main)
 
-- 🔐 **Zero Trust + Conditional Access with Fedrated Entra ID, AWS IAM Identity & Identity360**  
-  [View case study](#) – Designed identity policies for role-based access control with MFA, JIT provisioning, and audit logging.
+---
 
-- ⚙️ **Terraform Module: Secure EC2 with Netbird VPN**  
-  [View code](#) – A reusable module for deploying secure EC2 workloads with VPN connectivity, logging, and hardened defaults.
+### 📡 Network Detection & Response (NDR): Zeek + Suricata  
+Designed and deployed a production-grade NDR pipeline using Zeek (network metadata) and Suricata (deep packet inspection), integrated with Azure Log Analytics.  
+Applied KQL transforms, MITRE ATT&CK mapping, and threat enrichment.
 
-- 📊 **Risk Management with AWS Security Hub**  
-  [Read post](#) – Leveraged CSPM findings to create a control-aligned remediation roadmap and security score dashboard.
+---
 
-- 🧾 **Incident Response Plan & Playbooks (NIST-aligned)**  
-  [View IR package](#) – Developed IR policy, tiered response playbooks, and escalation flows for a remote organization.
+### 📊 SIEM Engineering with Microsoft Sentinel + HITL-SOAR  
+Custom analytics rules, threat hunting queries, and incident response playbooks using Microsoft Sentinel.  
+Includes Sentinel Investigation Graphs and real-world incident correlation.  
+_Human-in-the-loop SOAR_ integrated with Logic Apps.
+
+---
+
+### ⚙️ Centralized Identity Federation for Zero Trust  
+Federated IAM across Entra ID, AWS IAM Identity Center, Zoho Identity360, and on-prem AD.  
+Automated provisioning (SCIM), MFA, and Conditional Access policies supporting Zero Trust posture.
+
+---
+
+### 🧱 Infrastructure as Code (IaC) for Secure Cloud  
+Terraform modules with embedded security controls—NSGs, IAM roles, encrypted volumes.  
+Includes CI/CD security gates using GitHub Actions, CodeQL, and automated deployments to AWS and Azure.
+
+---
+
+### 📦 ObsidianWall (Security Infrastructure-as-Code Platform)  
+An ongoing project building a dedicated SIaC platform for secure-by-default, multi-cloud infrastructure.  
+Modular blueprints, audit-ready design, and embedded Zero Trust policies—geared for modern, compliance-driven environments.
+
+🔗 _ObsidianWall GitHub Repo (In Progress)_
 
 ---
 
 ## 📈 Career Highlights
 
-- ✅ Increased cloud security posture from **10% to 95%**
+- ✅ Increased cloud security posture from **35% to 95%**
 - 🛡️ Sole architect and admin for a **remote-first, cloud-native infrastructure**
 - 📍 Built and maintained **hybrid SecOps** using Microsoft Defender, Sentinel, and AWS tools
 - 📊 Created internal **SIEM dashboards, KQL rules, and visual playbooks**
