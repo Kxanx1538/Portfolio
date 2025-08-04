@@ -41,7 +41,7 @@ I operate at the convergence of **security engineering, automation, identity, an
 ### 🧱 Hybrid Multi-Cloud Zero Trust Architecture with Lean SOC  
 End-to-end design and deployment of a federated identity-first, Zero Trust model across Azure, AWS, on-prem, and SaaS.  
 Integrated SIEM, IAM, Secure VPN, automation, and cloud governance tools—tailored for a lean, modern security team.  
-📎[View Architecture Case Study] (https://github.com/Kxanx1538 hybrid-zero-trust-architecture/tree/main)
+📎[View Architecture Case Study](https://github.com/Kxanx1538 hybrid-zero-trust-architecture/tree/main)
 
 ---
 
