@@ -1,8 +1,8 @@
-# 🛡️ Ash Abe — Cloud-Native Cybersecurity Engineer
+# 🛡️ Cloud-Native Cybersecurity Engineer
 
 I’m a cybersecurity engineer specializing in **Cloud Security Architecture**, **Security Automation / DevSecOps (IaC)**, **IAM / Zero Trust**, **SIEM & Analytics**, and **GRC & Compliance Engineering**. My focus is on building secure, automated, auditable environments across hybrid and multi-cloud systems using tools like **Terraform**, **Microsoft Sentinel**, **AWS Security Hub**, **Entra ID**, and more.
 
-With a background in full-stack IT and real-world experience as the sole IT and security owner for a remote-first company, I’ve architected, deployed, and operationalized cloud-native security programs from the ground up. This portfolio provides a holistic view of my work, impact, and the secure-by-design systems I continue to build.
+With a background in full-stack IT and experience as the sole IT and security owner for a remote-first company, I’ve architected, deployed, and operationalized cloud-native security programs from the ground up. This portfolio provides a holistic view of my work, impact, and the secure-by-design systems I continue to build.
 
 ---
 
@@ -39,7 +39,7 @@ I operate at the convergence of **security engineering, automation, identity, an
 - 🧠 **Microsoft Sentinel: Custom SIEM Use Cases + KQL**  
   [View project](#) – Built custom analytics rules, hunting queries, and incident response workflows for multi-tenant environments.
 
-- 🔐 **Zero Trust + Conditional Access with Entra ID & Identity360**  
+- 🔐 **Zero Trust + Conditional Access with Fedrated Entra ID, AWS IAM Identity & Identity360**  
   [View case study](#) – Designed identity policies for role-based access control with MFA, JIT provisioning, and audit logging.
 
 - ⚙️ **Terraform Module: Secure EC2 with Netbird VPN**  
