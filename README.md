@@ -25,7 +25,7 @@ With a background in full-stack IT and experience as the sole IT and security ow
 
 ---
 
-## 📊 My Cybersecurity Focus Areas
+## 📊 My Cybersecurity Focus Areas   
 
 ![Cybersecurity Specialization Venn Diagram](./assets/venn_diagram.png)
 
