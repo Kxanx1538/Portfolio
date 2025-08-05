@@ -1,4 +1,5 @@
-# 🛡️ Cloud-Native Cybersecurity Engineer
+
+# 🛡️ Cybersecurity & Cloud Infrastructure | Engineer | Architect
 
 I’m a cybersecurity engineer specializing in **Cloud Security Architecture**, **Security Automation / DevSecOps (IaC)**, **IAM / Zero Trust**, **SIEM & Analytics**, and **GRC & Compliance Engineering**. My focus is on building secure, automated, auditable environments across hybrid and multi-cloud systems using tools like **Terraform**, **Microsoft Sentinel**, **AWS Security Hub**, **Entra ID**, and more.
 
