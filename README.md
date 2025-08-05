@@ -24,7 +24,7 @@ With a background in full-stack IT and experience as the sole IT and security ow
   Building advanced detection rules, transforming telemetry, and visualizing signals using Microsoft Sentinel and AWS tools.
 
 - **GRC & Compliance Engineering**  
-  Mapping NIST 800-53, CIS, and ISO 27001 controls to real infrastructure; automating compliance scoring and reporting.
+  Mapping NIST-CSF, CIS, ISO 27001, PCI-DSS, HIPAA, GDPR, SOX controls to real infrastructure; automating compliance scoring and reporting.
 
 ---
 
