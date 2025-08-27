@@ -22,6 +22,8 @@ I operate at the convergence of three key disciplines:
  * Security Engineering: Designing and implementing robust security controls and architectures.
  * Platform & Software Development: Building automated solutions with code and managing the CI/CD pipeline.
  * IT & Cloud Infrastructure: Operating and maintaining foundational IT systems across on-premises and multi-cloud environments.
+
+![Cybersecurity Specialization Venn Diagram](./assets/venn_diagram1.png)
 ___
 ## 🚧 Projects & Case Studies
 
