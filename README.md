@@ -7,7 +7,7 @@ With a background in full-stack IT and comprehensive experience as the lead IT a
 ___
 ## 🧭 My Unique Value Proposition
 I operate at the convergence of three critical disciplines, which allows me to bring a unique, holistic perspective to every challenge:
-**-The Hybrid & Multi-Cloud Master:** I seamlessly integrate on-premises infrastructure with multiple cloud platforms (Azure, AWS, and GCP), a highly sought-after skill for any organization with a complex, real-world IT environment.
+- **The Hybrid & Multi-Cloud Master:** I seamlessly integrate on-premises infrastructure with multiple cloud platforms (Azure, AWS, and GCP), a highly sought-after skill for any organization with a complex, real-world IT environment.
 **-The Architect & Builder:** I possess the unique ability to both design the high-level security architecture (like my Zero Trust model) and personally build it from the ground up using code (laC, custom scripts, and automation pipelines).
 **-The Holistic Security Owner:** I have end-to-end ownership of my security posture. I am not only a strategic leader who handles GRC and policies but also a hands-on engineer who responds to incidents and manages the day-to-day security operations.
 ___
