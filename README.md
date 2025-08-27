@@ -11,7 +11,7 @@ I operate at the convergence of three critical disciplines, which allows me to b
 - **The Architect & Builder:** I possess the unique ability to both design the high-level security architecture (like my Zero Trust model) and personally build it from the ground up using code (laC, custom scripts, and automation pipelines).
 - **The Holistic Security Owner:** I have end-to-end ownership of my security posture. I am not only a strategic leader who handles GRC and policies but also a hands-on engineer who responds to incidents and manages the day-to-day security operations.
 ___
-##💡Guiding Principles & Philosophy
+## 💡Guiding Principles & Philosophy
 My work is driven by a strong security philosophy, centered on these core principles:
 - **Security by Design:** I believe in embedding security controls and principles from the very beginning of a project, rather than retrofitting them later.
 - **Proactive over Reactive:** I am first and foremost a proactive security professional with a reactive plan. I focus on automation and threat hunting to prevent incidents before they occur.
