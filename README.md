@@ -16,12 +16,14 @@ ___
    Building advanced detection rules, transforming telemetry, and visualizing signals using Microsoft Sentinel and AWS tools.
  * GRC & Compliance Engineering
    Mapping NIST-CSF, CIS, ISO 27001, PCI-DSS, HIPAA, GDPR, SOX controls to real infrastructure; automating compliance scoring and reporting.
-📊 My Cybersecurity Focus Areas
+___
+## 📊 My Cybersecurity Focus Areas
 I operate at the convergence of three key disciplines:
  * Security Engineering: Designing and implementing robust security controls and architectures.
  * Platform & Software Development: Building automated solutions with code and managing the CI/CD pipeline.
  * IT & Cloud Infrastructure: Operating and maintaining foundational IT systems across on-premises and multi-cloud environments.
-🚧 Projects & Case Studies
+___
+## 🚧 Projects & Case Studies
 🧱 Hybrid Multi-Cloud Zero Trust Architecture with Lean SOC
 End-to-end design and deployment of a federated identity-first, Zero Trust model across Azure, AWS, on-premises, and SaaS. Integrated SIEM, IAM, and a secure VPN (with an on-premise IDS/IPS router).
 ---
