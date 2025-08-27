@@ -25,7 +25,7 @@ I operate at the convergence of three key disciplines:
 ___
 ## 🚧 Projects & Case Studies
 
-*🧱 Hybrid Multi-Cloud Zero Trust Architecture with Lean SOC*
+**🧱 Hybrid Multi-Cloud Zero Trust Architecture with Lean SOC**
 End-to-end design and deployment of a federated identity-first, Zero Trust model across Azure, AWS, on-premises, and SaaS. Integrated SIEM, IAM, and a secure VPN (with an on-premise IDS/IPS router).
  * 📎View Architecture Case Study
 📡 Network Detection & Response (NDR): Zeek + Suricata
