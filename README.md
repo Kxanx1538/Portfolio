@@ -31,7 +31,7 @@ ___
 
 End-to-end design and deployment of a federated identity-first, Zero Trust model across Azure, AWS, on-premises, and SaaS. Integrated SIEM, IAM, and a secure VPN (with an on-premise IDS/IPS router).
 
- * 📎View Architecture Case Study
+ * 📎![View Architecture Case Study](https://github.com/Kxanx1538/hybrid-zero-trust-architecture)
 
 **📡 Network Detection & Response (NDR): Zeek + Suricata**
 Designed and deployed a production-grade NDR pipeline using Zeek (network metadata) and Suricata (deep packet inspection), integrated with Azure Log Analytics. Applied KQL transforms, MITRE ATT&CK mapping, and threat enrichment.
@@ -63,5 +63,5 @@ ___
 📬 Connect with Me
  * 🔗 LinkedIn
  * 🌐 ObsidianWall Project Initiative
-> 🧭 This page will evolve as I continue building projects under my ObsidianWall SIaC initiative and beyond.
+> 🧭 This page will evolve as I continue building projects under my ObsidianWall SIaC, plug & play ci/cd initiative and beyond.
 > 
