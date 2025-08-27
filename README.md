@@ -26,16 +26,21 @@ ___
 ## 🚧 Projects & Case Studies
 
 **🧱 Hybrid Multi-Cloud Zero Trust Architecture with Lean SOC**
+
 End-to-end design and deployment of a federated identity-first, Zero Trust model across Azure, AWS, on-premises, and SaaS. Integrated SIEM, IAM, and a secure VPN (with an on-premise IDS/IPS router).
+
  * 📎View Architecture Case Study
-📡 Network Detection & Response (NDR): Zeek + Suricata
+
+**📡 Network Detection & Response (NDR): Zeek + Suricata**
 Designed and deployed a production-grade NDR pipeline using Zeek (network metadata) and Suricata (deep packet inspection), integrated with Azure Log Analytics. Applied KQL transforms, MITRE ATT&CK mapping, and threat enrichment.
-📊 SIEM Engineering with Microsoft Sentinel + HITL-SOAR
+
+**📊 SIEM Engineering with Microsoft Sentinel + HITL-SOAR**
 Developed custom analytics rules, threat hunting queries, and incident response playbooks using Microsoft Sentinel. Includes Sentinel Investigation Graphs and real-world incident correlation.
 Human-in-the-loop SOAR integrated with Logic Apps.
-⚙️ Centralized Identity Federation for Zero Trust
+
+**⚙️ Centralized Identity Federation for Zero Trust**
 Federated IAM across Entra ID, AWS IAM Identity Center, Zoho Identity360, and on-prem AD. Automated provisioning (SCIM), MFA, and Conditional Access policies supporting Zero Trust posture.
-🧱 Infrastructure as Code (IaC) for Secure Cloud
+** 🧱 Infrastructure as Code (IaC) for Secure Cloud**
 Terraform modules with embedded security controls—NSGs, IAM roles, encrypted volumes. Includes CI/CD security gates using GitHub Actions, CodeQL, and automated deployments to AWS and Azure.
 📦 ObsidianWall (Security Infrastructure-as-Code Platform)
 An ongoing project building a dedicated SIaC platform for secure-by-default, multi-cloud infrastructure. Modular blueprints, audit-ready design, and embedded Zero Trust policies—geared for modern, compliance-driven environments.
