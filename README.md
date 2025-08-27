@@ -40,9 +40,11 @@ Human-in-the-loop SOAR integrated with Logic Apps.
 
 **⚙️ Centralized Identity Federation for Zero Trust**
 Federated IAM across Entra ID, AWS IAM Identity Center, Zoho Identity360, and on-prem AD. Automated provisioning (SCIM), MFA, and Conditional Access policies supporting Zero Trust posture.
+
 ** 🧱 Infrastructure as Code (IaC) for Secure Cloud**
 Terraform modules with embedded security controls—NSGs, IAM roles, encrypted volumes. Includes CI/CD security gates using GitHub Actions, CodeQL, and automated deployments to AWS and Azure.
-📦 ObsidianWall (Security Infrastructure-as-Code Platform)
+
+**📦 ObsidianWall (Security Infrastructure-as-Code Platform)**
 An ongoing project building a dedicated SIaC platform for secure-by-default, multi-cloud infrastructure. Modular blueprints, audit-ready design, and embedded Zero Trust policies—geared for modern, compliance-driven environments.
 🔗 ObsidianWall GitHub Repo (In Progress)
 ___
